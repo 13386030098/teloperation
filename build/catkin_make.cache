@@ -1,0 +1,2 @@
+master_driver:omega7_drive:robot_inverse_kinematic:robot_msgs
+-DCATKIN_DEVEL_PREFIX=/home/kaanh/teloperation_v1/devel -DCMAKE_INSTALL_PREFIX=/home/kaanh/teloperation_v1/install -G Unix Makefiles

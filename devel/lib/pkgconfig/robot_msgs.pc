@@ -1,0 +1,8 @@
+prefix=/home/kaanh/teloperation_v1/devel
+
+Name: robot_msgs
+Description: Description of robot_msgs
+Version: 0.0.0
+Cflags: -I/home/kaanh/teloperation_v1/devel/include
+Libs: -L/home/kaanh/teloperation_v1/devel/lib 
+Requires: 

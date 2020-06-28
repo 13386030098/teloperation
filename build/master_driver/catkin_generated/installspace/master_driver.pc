@@ -1,0 +1,8 @@
+prefix=/home/kaanh/teloperation_v1/install
+
+Name: master_driver
+Description: Description of master_driver
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kaanh/teloperation_v1/install/lib 
+Requires: roscpp std_msgs robot_msgs
